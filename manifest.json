@@ -1,0 +1,37 @@
+{
+    "name": "Leagues List",
+    "short_name": "Leagues List",
+    "description": "Aplikasi yang menampilkan jadwal main sepak bola",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "/img/icon/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/icon/custom_icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+  "gcm_sender_id": "749277667446"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
